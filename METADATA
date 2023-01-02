@@ -1,8 +1,3 @@
-# *** THIS PACKAGE HAS SPECIAL LICENSING CONDITIONS.  PLEASE
-#     CONSULT THE OWNERS AND opensource-licensing@google.com BEFORE
-#     DEPENDING ON IT IN YOUR PROJECT. ***
-third_party {
-  # would be RESTRICTED save for GFDL in:
-  #   testcases/kernel/device-drivers/v4l/user_space/doc/spec/*.htm*
-  license_type: BY_EXCEPTION_ONLY
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae6629d223927e2285f7126e38c1ae7412cd9b8f4135d7f06e99f74d5c038366
+size 333

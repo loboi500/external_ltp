@@ -1,12 +1,3 @@
-# SPDX-License-Identifier: GPL-2.0-or-later
-#
-# Copyright (C) Cyril Hrubis <chrubis@suse.cz>
-
-top_srcdir		?= ../..
-
-include $(top_srcdir)/include/mk/env_pre.mk
-
-LIB			:= libltpnuma.a
-
-include $(top_srcdir)/include/mk/lib.mk
-include $(top_srcdir)/include/mk/generic_leaf_target.mk
+version https://git-lfs.github.com/spec/v1
+oid sha256:5db5ca0c9eafa65d33089587198236980a5a0b81a88f992a88b63cbb8451f92b
+size 280
